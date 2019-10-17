@@ -1,5 +1,13 @@
 <?xml version="1.0"?>
 <question type="truefalse">
+    <name>
+		<text>Demo question vrai/faux</text>
+	</name>
+	<questiontext format="html">
+		<text>Vrai ou faux?</text>
+	</questiontext>
+	<penalty>1</penalty>
+	<defaultgrade>1</defaultgrade>
     <answer fraction="100">
         <text>true</text>
         <feedback>
@@ -12,4 +20,5 @@
             <text>Ooops!</text>
         </feedback>
     </answer>
+    <single>true</single>
 </question>
