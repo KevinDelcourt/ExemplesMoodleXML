@@ -1,0 +1,17 @@
+<question type="numerical">
+    <name>
+		<text>Exemple Question à réponse numérique</text>
+	</name>
+	<questiontext format="html">
+		<text>Choisissez un nombre?</text>
+	</questiontext>
+	<penalty>1</penalty>
+	<defaultgrade>1</defaultgrade>
+    <answer fraction="100">
+        <text>23</text>
+        <feedback>
+            <text>Feedback</text>
+        </feedback>
+    </answer>
+    <single>true</single>
+</question>
