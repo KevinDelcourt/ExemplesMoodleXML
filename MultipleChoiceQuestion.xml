@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
 <question type="multichoice">
 	<name>
-		<text>Demo question à choix multiples</text>
+		<text>Demo question à choix multiples.</text>
 	</name>
 	<questiontext format="html">
-		<text>what is the right answer ?</text>
+		<text>Quelle est la bonne réponse???</text>
+>>>>>>> e1ce8a7d167b1098539db273fece3e6f8bf30dfd
 	</questiontext>
 	<penalty>1</penalty>
 	<defaultgrade>1</defaultgrade>

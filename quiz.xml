@@ -2,7 +2,7 @@
 <quiz>
     <question type="multichoice">
         <name>
-            <text>Demo question à choix multiples</text>
+            <text>Demo question à choix multiples?</text>
         </name>
         <questiontext format="html">
             <text>Quel est la bonne réponse ?</text>
