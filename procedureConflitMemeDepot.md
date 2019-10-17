@@ -18,3 +18,6 @@
     - git merge branche1
 
 À ce stade un conflit devrait être mis en évidence
+
+## Deuxième option
+    - sh createConflict.sh
