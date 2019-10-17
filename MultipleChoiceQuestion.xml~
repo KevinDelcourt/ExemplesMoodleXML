@@ -4,7 +4,7 @@
 		<text>Demo question à choix multiples</text>
 	</name>
 	<questiontext format="html">
-		<text>what is the right answer ?</text>
+		<text>Quel est la bonne réponse ?</text>
 	</questiontext>
 	<penalty>1</penalty>
 	<defaultgrade>1</defaultgrade>
